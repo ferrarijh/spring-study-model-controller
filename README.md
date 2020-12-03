@@ -43,7 +43,8 @@ Possible causes and solutions:
 If it's really necessary to apply modified sql script to database then drop the database and recreate it.
 
 ## Unresolved
-* `Optional<T>`
+* `Optional<T>` - necessary in kotlin?
+* `.queryForObject()` - how to handle empty result?
 
 ## Extra
 
