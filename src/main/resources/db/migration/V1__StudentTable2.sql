@@ -1,0 +1,4 @@
+CREATE TABLE student_table_2(
+    id UUID NOT NULL PRIMARY KEY,
+    name VARCHAR(20) NOT NULL
+);
