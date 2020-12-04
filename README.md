@@ -1,3 +1,7 @@
+# Students Management Server with spring
+
+Spring project to test model and controller - model implemented with PostgreSQL on local docker.
+
 ## MVC
 ### Controller
 * Controller recognizes user request via URL, asks Model for requested data,
